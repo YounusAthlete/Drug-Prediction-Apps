@@ -12,8 +12,8 @@ This interactive web app lets users input patient details like Age, Sex, Blood P
 
 ## 🖥️ Live Demo
 
-[Click here to try the app live!](#)  
-*(Add your deployed app URL here, e.g., Streamlit sharing link)*
+[Click here to try the app live!](https://younusathlete-drug-prediction-apps-app-o2kstx.streamlit.app/)  
+
 
 ---
 
